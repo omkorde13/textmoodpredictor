@@ -19,6 +19,10 @@ def load_detector():
 
 
 def main():
+    download_nltk_data()
+
+    # ... rest of your main function ...
+    st.title("Stress Burnout Detection")
     st.title("🧠 Mental Stress & Burnout Detection")
 
     detector = load_detector()
