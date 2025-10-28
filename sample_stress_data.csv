@@ -1,0 +1,46 @@
+text,stress_level,timestamp,user_id
+"I'm so overwhelmed with work, I can't sleep at night",2,2024-01-01,user_0
+"Everything feels like too much, I'm constantly anxious",2,2024-01-02,user_1
+I feel burned out and exhausted all the time,2,2024-01-03,user_2
+"I can't concentrate, my mind is racing with worries",2,2024-01-04,user_3
+I feel like I'm drowning in responsibilities,2,2024-01-05,user_4
+I'm so stressed I can't even think straight,2,2024-01-06,user_5
+I feel like I'm on the verge of a breakdown,2,2024-01-07,user_6
+I'm constantly worried about everything,2,2024-01-08,user_7
+I feel like I'm failing at everything,2,2024-01-09,user_8
+I'm so tired but I can't relax,2,2024-01-10,user_9
+I'm struggling with anxiety and panic attacks,2,2024-01-11,user_0
+I feel like I'm losing control of my life,2,2024-01-12,user_1
+I'm so stressed I can't eat or sleep properly,2,2024-01-13,user_2
+I feel hopeless and don't know what to do,2,2024-01-14,user_3
+I'm constantly worried about my health,2,2024-01-15,user_4
+"Work has been challenging lately, but I'm managing",1,2024-01-16,user_5
+I feel a bit overwhelmed but I'll get through it,1,2024-01-17,user_6
+Some days are harder than others,1,2024-01-18,user_7
+I'm feeling a bit stressed but it's manageable,1,2024-01-19,user_8
+I have some concerns but I'm coping,1,2024-01-20,user_9
+I feel pressure but I can handle it,1,2024-01-21,user_0
+I'm a bit worried about the future,1,2024-01-22,user_1
+I feel some tension but it's not too bad,1,2024-01-23,user_2
+I have some stress but I'm dealing with it,1,2024-01-24,user_3
+I feel a bit anxious but I'm okay,1,2024-01-25,user_4
+I'm feeling a bit tired but generally okay,1,2024-01-26,user_5
+I have some work stress but I'm handling it,1,2024-01-27,user_6
+I feel a bit anxious about the presentation,1,2024-01-28,user_7
+I'm concerned about the project deadline,1,2024-01-29,user_8
+I feel some pressure but I'm managing,1,2024-01-30,user_9
+I'm feeling good and positive about things,0,2024-01-31,user_0
+Life is going well and I'm happy,0,2024-02-01,user_1
+I feel calm and relaxed today,0,2024-02-02,user_2
+I'm in a good mood and feeling optimistic,0,2024-02-03,user_3
+Everything seems to be working out fine,0,2024-02-04,user_4
+I feel peaceful and content,0,2024-02-05,user_5
+I'm feeling great and motivated,0,2024-02-06,user_6
+I have a positive outlook on life,0,2024-02-07,user_7
+I feel balanced and healthy,0,2024-02-08,user_8
+I'm feeling confident and secure,0,2024-02-09,user_9
+I'm feeling wonderful and full of energy,0,2024-02-10,user_0
+I'm so happy and grateful for everything,0,2024-02-11,user_1
+I feel amazing and ready to take on anything,0,2024-02-12,user_2
+I'm feeling confident and successful,0,2024-02-13,user_3
+I feel peaceful and satisfied with life,0,2024-02-14,user_4
