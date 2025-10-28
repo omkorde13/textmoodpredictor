@@ -1,3 +1,4 @@
+import nltk
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -5,7 +6,12 @@ import seaborn as sns
 
 from mental_stress_detector import MentalStressDetectorCSV
 
-
+@st.cache_resource
+def download_nltk_data():
+    """Downloads NLTK data packages required for the app."""
+    nltk.download('punkt')
+    nltk.download('stopwords')
+    nltk.download('wordnet')
 
 @st.cache(allow_output_mutation=True)
 def load_detector():
