@@ -10,6 +10,7 @@ from mental_stress_detector import MentalStressDetectorCSV
 def download_nltk_data():
     """Downloads NLTK data packages required for the app."""
     nltk.download('punkt')
+    nltk.download('punkt_tab')
     nltk.download('stopwords')
     nltk.download('wordnet')
 download_nltk_data()
