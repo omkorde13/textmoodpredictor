@@ -12,7 +12,7 @@ def download_nltk_data():
     nltk.download('punkt')
     nltk.download('stopwords')
     nltk.download('wordnet')
-setup_nltk()
+download_nltk_data()
 @st.cache(allow_output_mutation=True)
 def load_detector():
     return MentalStressDetectorCSV()
